@@ -1,0 +1,13 @@
+{
+    "display_name": "后台流式生成",
+    "loading_order": 1,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "il057",
+    "version": "2.3.1",
+    "homePage": "https://github.com/il057/bg-stream-suite",
+    "auto_update": false,
+    "minimum_client_version": "1.13.3"
+}

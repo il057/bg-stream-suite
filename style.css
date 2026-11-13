@@ -1,0 +1,16 @@
+.bg-stream-settings .bg-stream-hint {
+    display: block;
+    margin-bottom: 0.5em;
+    opacity: 0.75;
+}
+
+.bg-stream-settings .bg-stream-status {
+    margin-top: 0.5em;
+    font-size: calc(var(--mainFontSize) * 0.85);
+    opacity: 0.75;
+}
+
+.bg-stream-settings .bg-stream-status--bad {
+    color: var(--warning, #d9534f);
+    opacity: 1;
+}
